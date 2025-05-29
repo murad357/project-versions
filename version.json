@@ -2,21 +2,21 @@
   "sawm-alert": {
     "android": {
       "latest": "1.0.3",
-      "minSupported": "1.0.0"
+      "minimum": "1.0.0"
     },
     "ios": {
       "latest": "1.0.3",
-      "minSupported": "1.0.0"
+      "minimum": "1.0.0"
     }
   },
   "other-app": {
     "android": {
       "latest": "2.1.0",
-      "minSupported": "2.0.0"
+      "minimum": "2.0.0"
     },
     "ios": {
       "latest": "2.1.0",
-      "minSupported": "2.0.1"
+      "minimum": "2.0.1"
     }
   }
 }
