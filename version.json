@@ -1,11 +1,11 @@
 {
   "sawm-alert": {
     "android": {
-      "latest": "1.0.10",
+      "latest": "1.0.11",
       "minimum": "1.0.9"
     },
     "ios": {
-      "latest": "1.0.10",
+      "latest": "1.0.11",
       "minimum": "1.0.9"
     }
   },
